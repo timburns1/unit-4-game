@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+html, body{
+    background-image: url("../images/connectwork.png");
+    height: 100%;
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+
+}
+
+p{
+    color: blueviolet;
+}
