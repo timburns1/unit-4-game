@@ -14,3 +14,45 @@ html, body{
 p{
     color: blueviolet;
 }
+
+#foot{
+    position: absolute;
+    color:aliceblue;
+    background-color: midnightblue;
+    height: 50px;
+    padding: 8px;
+    text-align: center;
+    border-top-color: darkmagenta;
+    border-top-style: solid;
+    width: 100%;
+    bottom: 0;
+    border-top-width: 2px;
+}
+
+#header{
+    color: midnightblue;
+    margin: 10px;
+    padding: 10px;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    background-image: url("../images/crystals_GettyImages.jpg");
+    background-size: auto;
+}
+
+h2{
+    color: mintcream;
+    font-size: 25px;
+    text-decoration: underline;
+    text-align: center;
+    color: midnightblue;
+    margin: 10px;
+    /* padding: 10px; */
+}
+
+#rules{
+    background-image: url("../images/crystals_GettyImages.jpg");
+    width: 40%;
+    margin: 10px;
+    padding: 10px;
+}
