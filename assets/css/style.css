@@ -11,12 +11,8 @@ html, body{
 
 }
 
-p{
-    color: blueviolet;
-}
-
 #foot{
-    position: absolute;
+    position: fixed;
     color:aliceblue;
     background-color: midnightblue;
     height: 50px;
@@ -44,10 +40,11 @@ h2{
     color: mintcream;
     font-size: 25px;
     text-decoration: underline;
-    text-align: center;
+    /* text-align: center; */
     color: midnightblue;
     margin: 10px;
     /* padding: 10px; */
+    font-weight: bolder;
 }
 
 #rules{
@@ -55,4 +52,14 @@ h2{
     width: 40%;
     margin: 10px;
     padding: 10px;
+    background-size: cover;
+}
+
+li{
+    color: ghostwhite; ;
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
 }
