@@ -11,19 +11,19 @@ html, body{
 
 }
 
-#foot{
-    position: fixed;
-    color:aliceblue;
-    background-color: midnightblue;
-    height: 50px;
-    padding: 8px;
-    text-align: center;
-    border-top-color: darkmagenta;
-    border-top-style: solid;
-    width: 100%;
-    bottom: 0;
-    border-top-width: 2px;
-}
+/* #foot{ */
+    /* position: fixed; */
+    /* color:aliceblue; */
+    /* background-color: midnightblue; */
+    /* height: 50px; */
+    /* padding: 8px; */
+    /* text-align: center; */
+    /* border-top-color: darkmagenta; */
+    /* border-top-style: solid; */
+    /* width: 100%; */
+    /* bottom: 0; */
+    /* border-top-width: 2px; */
+/* } */
 
 #header{
     color: midnightblue;
@@ -34,6 +34,8 @@ html, body{
     text-align: center;
     background-image: url("../images/crystals_GettyImages.jpg");
     background-size: auto;
+    border: darkmagenta;
+    border-style:solid;
 }
 
 h2{
