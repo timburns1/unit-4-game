@@ -63,3 +63,15 @@ li{
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
 }
+
+.winLose, .numberMatch{
+    background-image: url("../images/crystals_GettyImages.jpg");
+    padding: 10px;
+    width: 40%;
+    margin: 10px;
+    background-size: cover;
+}
+
+.gemBlocks{
+    padding:10px;
+}
